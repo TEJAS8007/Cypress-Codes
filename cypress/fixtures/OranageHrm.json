@@ -1,0 +1,21 @@
+[
+
+    {
+        "username":"Admin",
+        "Password":"admin123",
+        "name":"123VirajVirajVirajViraj dogThoratThoratThoratThorat"
+    },
+
+    {
+        "username":"Xyx",
+        "Password":"admin123",
+        "name":"Invalid credentials"
+    },
+
+    {
+        "username":"Admin",
+        "Password":"Xyz",
+        "name":"Invalid credentials"
+    }
+
+]
